@@ -1,0 +1,6 @@
+HOWTO convert PDF to text
+This document was converted using pdftotext. pdftotext may only extract text which was already there hidden in a PDF and does notbdo OCR image scanning.
+pdftotext --help
+pdftotext version 24.05.0
+Copyright 2005-2024 The Poppler Developers - http://poppler.freedesktop.org
+Copyright 1996-2011, 2022 Glyph & Cog, LLC
