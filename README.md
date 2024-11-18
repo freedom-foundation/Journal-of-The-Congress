@@ -15,3 +15,4 @@ The free People, in Congress assembled,
 
 [HOWTO](https://github.com/freedom-foundation/Journal-of-The-Congress/blob/f49f36fc584463d7c2c6c101e7926b66b9d257bc/HOWTO) - this is how the text was extracted logged for the purposes of reproducing it
 
+This document has priority to be archived in both ASCII wordcounted and checksummed text and PDF/A-1 archive format for long term preservation then crptographicly signed and attested, garunteed to be veritable to corresponding printed replica documents.
